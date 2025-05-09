@@ -56,11 +56,6 @@ Necesitas tener instalado un navegador y un editor de código como Visual Studio
 - Imágenes optimizadas y diseño responsivo básico.
 
 
-## 🖼️ Capturas de Pantalla
-
-> ![Inicio](img/captura_inicio.png)  
-> ![Planes](img/captura_planes.png)
-
 
 ## 🧪 Cómo clonar y visualizar el proyecto
 
